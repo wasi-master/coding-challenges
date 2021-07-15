@@ -3,6 +3,8 @@
 
 This a repository for all the code challenges that I do
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwasi-master%2Fcoding-challenges&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=repo%20views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Code style
 
 The challenges are done in multiple languages and following all guidelines for all of them is impossible for me, so if you feel like fixing the style then you can open a issue or a pull request
