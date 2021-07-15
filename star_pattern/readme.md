@@ -28,4 +28,26 @@ Print a star pattern like so:
 
 ## Implementation
 
-See the files
+pseudo-code:
+
+```prolog
+CREATE VARIABLE CALLED iterations WITH VALUE AS 0
+CREATE VARIABLE CALLED starcount WITH VALUE AS 0
+CREATE VARIABLE CALLED size with VALUE AS 15
+
+WHILE iterations IS SMALLER THAN size:
+    INCREMENT iterations by one
+
+    IF iterations IS LESS THAN OR EQUAL TO size INTEGER DIVIDED BY 2:
+        INCREMENT starcount BY 1
+        PRINT AN space REPEATED size - 1 TIMES and dont add a new line
+        PRINT AN star FOLLOWED BY a space REPEATED starcount TIMES
+
+    IF iterations IS GREATER THAN size INTEGER DIVIDED BY 2:
+      DECREMENT starcount BY 1
+      PRINT AN space REPEATED size - 1 TIMES AND DONT ADD A NEW LINE
+      PRINT AN * FOLLOWED BY a space REPEATED starcount TIMES
+        
+```
+
+If there isn't a way to repeat a string in the standard library of a language then we make one
