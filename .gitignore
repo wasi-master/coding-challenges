@@ -2,7 +2,8 @@
 ############################################################################
 .history/
 .vscode/
-
+# A file I use for automation
+automation.py 
 
 
 
