@@ -31,9 +31,10 @@ Print a star pattern like so:
 pseudo-code:
 
 ```prolog
+/*An pseudo code implementation*/
 CREATE VARIABLE CALLED iterations WITH VALUE AS 0
 CREATE VARIABLE CALLED starcount WITH VALUE AS 0
-CREATE VARIABLE CALLED size with VALUE AS 15
+CREATE VARIABLE CALLED size WITH VALUE AS 15
 
 WHILE iterations IS SMALLER THAN size:
     INCREMENT iterations by one
