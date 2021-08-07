@@ -37,7 +37,7 @@ CREATE VARIABLE CALLED starcount WITH VALUE AS 0
 CREATE VARIABLE CALLED size WITH VALUE AS 15
 
 WHILE iterations IS SMALLER THAN size:
-    INCREMENT iterations by one
+    INCREMENT iterations BY ONE
 
     IF iterations IS LESS THAN OR EQUAL TO size INTEGER DIVIDED BY 2:
         INCREMENT starcount BY 1
