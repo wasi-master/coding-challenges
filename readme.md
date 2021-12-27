@@ -11,12 +11,12 @@ The challenges are done in multiple languages and following all guidelines for a
 
 ## Contributing
 
-If you feel like something is wrong then you can open a pull request and I'll look into it
-
+If you feel like something is wrong then you can open a pull request or issue and I'll look into it
+ 
 ## Languages
 
-Currently has Python, Javascript, C, C++, C#, Rust, Java<br>
-Will be added in the future: R, Ruby, Lua
+Currently includes [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [Javascript](https://en.wikipedia.org/wiki/JavaScript), [C](https://www.wikipedia.com/wiki/C_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B), [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)), [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [Go](https://en.wikipedia.org/wiki/Go_(programming_language)), [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)), [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language))\
+If you have any other language you'd like to add a Pull Request will be appreciated
 
 ## Instructions
 
@@ -51,7 +51,7 @@ Will be added in the future: R, Ruby, Lua
 3. Online
    - Or run javascript code online in [jsfiddle](https://jsfiddle.net) or [tutorialspoint](https://www.tutorialspoint.com/online_javascript_editor.php)
 
-- A official guide on how to run rust scripts: <https://doc.rust-lang.org/book/ch01-02-hello-world.html#compiling-and-running-are-separate-steps/>
+- A guide by Fireship on how to run javascript: <https://fireship.io/courses/javascript/beginner-js-where-to-run/>
 
 ### C
 
