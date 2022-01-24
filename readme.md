@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 # **What is this?**
 
-This a repository for all the code challenges that I do
+This a repository for all the code challenges that I do. Keep in mind that all the algorithms for the challenges are thought by me and any resemblance to others is merely coincidental
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwasi-master%2Fcoding-challenges&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=repo%20views&edge_flat=false)](https://hits.seeyoufarm.com)
 
